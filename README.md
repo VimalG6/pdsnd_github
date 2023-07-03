@@ -7,7 +7,7 @@
 Version Control : US Bikesharegit sat
 
 ### Description
-Describe what your project is about and what it does
+The project analyzes data of Bikeshare in three US cities viz. Washington, New York and Chicago
 
 ### Files used
 Include the files used
