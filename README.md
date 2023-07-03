@@ -10,7 +10,9 @@ Version Control : US Bikesharegit sat
 The project analyzes data of Bikeshare in three US cities viz. Washington, New York and Chicago
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+Washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
